@@ -1,0 +1,6 @@
+H:\Proyecto\tp8\tp8\bin\Debug\tp8.exe.config
+H:\Proyecto\tp8\tp8\bin\Debug\tp8.exe
+H:\Proyecto\tp8\tp8\bin\Debug\tp8.pdb
+H:\Proyecto\tp8\tp8\obj\Debug\tp8.csprojResolveAssemblyReference.cache
+H:\Proyecto\tp8\tp8\obj\Debug\tp8.exe
+H:\Proyecto\tp8\tp8\obj\Debug\tp8.pdb
